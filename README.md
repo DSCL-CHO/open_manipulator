@@ -1,5 +1,19 @@
 # 🦾 OpenMANIPULATOR
 
+```bash
+cd ~/mogi_ws/src
+```
+```bash
+https://github.com/DSCL-CHO/open_manipulator/edit/feature/my-changes
+```
+```bash
+sudo apt update
+sudo apt install ros-jazzy-gripper-controllers \
+                 ros-jazzy-position-controllers
+```
+
+------------
+
 ## Overview
 
 This repository provides an integrated management package for **ROBOTIS** robotic arms, including:
