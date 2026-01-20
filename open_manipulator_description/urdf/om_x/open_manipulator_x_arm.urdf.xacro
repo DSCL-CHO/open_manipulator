@@ -272,7 +272,7 @@
 
     <!-- Gripper camera -->
     <joint type="fixed" name="${prefix}gripper_camera_joint">
-      <origin xyz="0.08 0.0 0.0" rpy="0 0 0"/>
+      <origin xyz="0.08 0.0 0.05" rpy="0 0 0"/>
       <child link="${prefix}gripper_camera_link"/>
       <parent link="${prefix}link5"/>
     </joint>
